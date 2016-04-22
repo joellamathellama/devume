@@ -1,0 +1,83 @@
+{
+  "basics": {
+    "name": "Joel Ahn",
+    "label": "Software Developer",
+    "picture": "http://oi64.tinypic.com/2urqidx.jpg",
+    "email": "joelahn123@yahoo.com",
+    "phone": "(214) 673-0028",
+    "summary": "I am a full stack developer who naturally leans towards the front-end. Coming from an art background I can't help but try and make things visually appealing whether it be the application page or the code itself. But overall, I find myself to be a very curious person who loves to ask questions and discover new information.",
+    "location": {
+      "city": "Ennis",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/joellamas"
+      },
+      {
+        "network": "Github",
+        "url": "https://www.github.com/joellamathellama"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Communities in Schools: North Texas",
+      "position": "After-school Specialist II",
+      "website": "http://cisnt.org/",
+      "startDate": "2014",
+      "endDate": "2015",
+      "summary": "The mission of Communities In Schools of North Texas (CISNT) is to surround students with a community of support, empowering them to stay in school and achieve in life."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Vitamin-DB",
+      "url": "vitamindb.herokuapp.com",
+      "summary": "A personal medical information database for easy access. Video demo: https://www.youtube.com/watch?v=vEFQblKqqkI"
+    }
+  ],
+  "education": [
+    {
+      "institution": "MakerSquare",
+      "area": "Austin, TX",
+      "startDate": "2015",
+      "endDate": "2016"
+    },
+    {
+      "institution": "North Central Texas College",
+      "area": "Corinth, TX",
+      "startDate": "2012",
+      "endDate": "2015"
+    }
+  ],
+  "skills": [
+    {
+      "level": "Strong",
+      "keywords": [
+        "HTML[5]",
+        "CSS[3]/SASS",
+        "JavaScript",
+        "React/Redux",
+        "MySQL/PostgreSQL",
+        "Node",
+        "Gulp",
+        "Express",
+        "Git",
+        "JQuery"
+      ]
+    },
+    {
+      "level": "Experienced",
+      "keywords": [
+        "MongoDB",
+        "Webpack",
+        "Mocha/Chai",
+        "Angular",
+        "Knex"
+      ]
+    }
+  ]
+}
