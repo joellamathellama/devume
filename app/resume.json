@@ -48,7 +48,7 @@
       "name": "Slandr",
       "position": "Full stack developer",
       "url": "https://github.com/joellamathellama/fight-club",
-      "summary": "An application for users to fill out a questionnaire of current & controversial topics to debate against other users.",
+      "summary": "An application for users to debate current and controversial topics with polar opposite users.",
       "highlights": [
         "Designed the aesthetics and user functionality on the front-end with just Angular tools(Angular-animate[, cookies, ...]).",
         "Created forms to input user information, which we then sent to our MySQL database.",
