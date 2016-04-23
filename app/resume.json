@@ -35,8 +35,36 @@
   "projects": [
     {
       "name": "Vitamin-DB",
+      "position": "Front-end developer",
       "url": "vitamindb.herokuapp.com",
-      "summary": "A personal medical information database for easy access. Video demo: https://www.youtube.com/watch?v=vEFQblKqqkI"
+      "summary": "A personal medical information database for easy access. Video demo: https://www.youtube.com/watch?v=vEFQblKqqkI",
+      "highlights": [
+        "Created the front-end with React-Redux-Thunk, Browserify, and Reactify to best manage functionality and user data.",
+        "Implemented React-bootstrap, Twilio, nodemailer to better help the user recieve their information from database",
+        "Enabled user features such as: Add, Edit, Delete, Show(a certain type of information), and Appointment reminders."
+        ]
+    },
+    {
+      "name": "Slandr",
+      "position": "Full stack developer",
+      "url": "https://github.com/joellamathellama/fight-club",
+      "summary": "An application for users to fill out a questionnaire of current & controversial topics to debate against other users.",
+      "highlights": [
+        "Designed the aesthetics and user functionality on the front-end with just Angular tools(Angular-animate[, cookies, ...]).",
+        "Created forms to input user information, which we then sent to our MySQL database.",
+        "Linked the user data from the front end to the database in which I had to work with Express, Knex, and Sqlite."
+      ]
+    },
+    {
+      "name": "Blue Shell",
+      "position": "Back-end developer",
+      "url": "blueshell.io",
+      "summary": "A bookfinder, recommender, and user reviewing website that can be shared.",
+      "highlights": [
+        "Implemented a user review system for individual books that can be collectively viewed.",
+        "Web scrapped the current top 20 Amazon books for a quick and popular recommendation.",
+        "Worked with Legacy code from other devs and learned valuable lessons like: How essential it is, not just for oneself, to comment and make well readable code."
+      ]
     }
   ],
   "education": [
@@ -76,7 +104,8 @@
         "Webpack",
         "Mocha/Chai",
         "Angular",
-        "Knex"
+        "Knex",
+        "Sqlite"
       ]
     }
   ]
